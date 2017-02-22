@@ -1,0 +1,15 @@
+<litepal>
+
+    <dbname value="frost_weather"></dbname>
+
+    <version value="1"></version>
+
+    <list>
+        <mapping calss = "com.itheima.frostweather.db.Province"></mapping>
+        <mapping class = "com.itheima.frostweather.db.City"></mapping>
+        <mapping calss = "com.itheima.frostweather.db.Country"></mapping>
+
+    </list>
+
+
+</litepal>
